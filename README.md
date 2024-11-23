@@ -54,7 +54,8 @@ Below are the Top-1 (%) accuracy results of our proposed I-ViT that you should g
 | DeiT-B | 81.85 | 81.74        | -0.11 |
 | Swin-T | 81.35 | 81.50        | +0.15 |
 | Swin-S | 83.20 | 83.01        | -0.19 |
-
+## Dataset
+Tiny Imagenet(Stanford CS231N)
 ## Citation
 
 We appreciate it if you would please cite the following paper if you found the implementation useful for your work:
